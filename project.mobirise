@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "AfricansBuildAfrica.org",
-    "currentPage": "projects.html",
+    "name": "staging.africansbuildafrica.org",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -39,7 +39,7 @@
     "uniqCompNum": 41,
     "versionPublish": "4.7.1",
     "screenshot": "screenshot.png",
-    "siteUrl": "http://africansbuildafrica.org",
+    "siteUrl": "http://staging.africansbuildafrica.org",
     "sitemapSwitcherAuto": "on",
     "sitemapSwitcher": "on"
   },
