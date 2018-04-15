@@ -1953,6 +1953,9 @@ body {
 .cid-qPj1phIFl6 .popup-btn:hover .mbr-section-btn {
   opacity: 1;
 }
+.cid-qPj1phIFl6 .mbr-section-title {
+  color: #cc2952;
+}
 .cid-qPiTfbpZos {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1979,6 +1982,9 @@ body {
 .cid-qPiTfbpZos .input-group-btn {
   display: block;
   text-align: center;
+}
+.cid-qPiTfbpZos H2 {
+  color: #cc2952;
 }
 .cid-qPiTyxk64c {
   padding-top: 30px;
