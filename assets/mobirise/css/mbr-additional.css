@@ -1376,6 +1376,8 @@ body {
   display: none;
 }
 .cid-qPjDrXZtma {
+  padding-top: 120px;
+  padding-bottom: 45px;
   background-color: #efefef;
 }
 .cid-qPjDrXZtma .media-container-row {
@@ -3648,6 +3650,18 @@ body {
 .cid-qP77L60Vwp .nav-link:hover,
 .cid-qP77L60Vwp .dropdown-item:hover {
   color: #767676 !important;
+}
+.cid-qPk6AUse7s {
+  padding-top: 120px;
+  padding-bottom: 45px;
+  background-color: #ffffff;
+}
+.cid-qPk6AUse7s .mbr-text,
+.cid-qPk6AUse7s .mbr-section-btn {
+  color: #232323;
+}
+.cid-qPk6AUse7s H2 {
+  color: #767676;
 }
 .cid-qPiTyxk64c {
   padding-top: 30px;
