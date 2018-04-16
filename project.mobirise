@@ -703,6 +703,9 @@
                   "opacity": "1"
                 }
               }
+            },
+            ".mbr-section-title": {
+              "color": "#cc2952"
             }
           },
           "_name": "features18",
@@ -745,6 +748,9 @@
             ".input-group-btn": {
               "display": "block",
               "text-align": "center"
+            },
+            "H2": {
+              "color": "#cc2952"
             }
           },
           "_name": "form1",
